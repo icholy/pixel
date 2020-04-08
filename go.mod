@@ -7,6 +7,7 @@ require (
 	github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3
 	github.com/go-gl/gl v0.0.0-20190320180904-bf2b1f2f34d7 // indirect
 	github.com/go-gl/glfw v0.0.0-20190409004039-e6da0acd62b1
+	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200222043503-6f7a984d4dc4
 	github.com/go-gl/mathgl v0.0.0-20190416160123-c4601bc793c7
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/pkg/errors v0.8.1
